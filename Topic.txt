@@ -1,0 +1,2 @@
+1;CS243 Course files in Fall 2013;/Users/amaurylin/eclipse-workspace/masterCamp1/src/masterCamp1
+2;Cluster graduation project in 2013;/Users/amaurylin/eclipse-workspace/masterCamp1/src/masterCamp1

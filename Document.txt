@@ -1,0 +1,4 @@
+1;2;1;{Syllabus, Educational};CourseDescription.pdf
+2;2;1;{Educational, Rules, Grades};GradeAssessment.pdf
+3;2;1;{Educational, Course};Project.pdf
+4;2;1;{Syllabus, Educational};CourseDescription2.pdf
